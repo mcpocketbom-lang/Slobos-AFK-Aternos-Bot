@@ -8,7 +8,7 @@
   "server": {
     "ip": "Schoolserver-Ukya.aternos.me",
     "port": 37136,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
